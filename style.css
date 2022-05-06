@@ -1,0 +1,894 @@
+@charset "UTF-8";
+@import url("https://fonts.googleapis.com/css?family=Inter:400");
+
+.desktop-loja {
+  align-items: flex-start;
+  background-color: 
+#a09f9c;
+  display: flex;
+  flex-direction: column;
+  height: 2500px;
+  overflow: hidden;
+  padding: 0.5px 0;
+  width: 1440px;
+}
+
+.hidden,
+.hidden * {
+  pointer-events: none;
+  visibility: hidden;
+}
+
+.header {
+  align-items: flex-start;
+  display: flex;
+  margin-left: 0;
+  margin-top: 1px;
+  min-width: 1452px;
+  padding: 0 1px;
+}
+
+.overlap-group1 {
+  align-items: flex-end;
+  background-image: url(https://anima-uploads.s3.amazonaws.com/projects/62739d2cabee29561f13be11/releases/62739d4e4b1ae4989bc01425/img/background-header@1x.svg);
+  background-size: 100% 100%;
+  display: flex;
+  height: 101px;
+  margin-top: -0.55px;
+  min-width: 1440px;
+  padding: 15.9px 134px;
+}
+
+.ajuda {
+  letter-spacing: 0;
+  margin-bottom: 6px;
+  margin-left: 29px;
+  min-height: 22px;
+  width: 81px;
+}
+
+.logo-1 {
+  align-self: center;
+  background-image: url(https://anima-uploads.s3.amazonaws.com/projects/62739d2cabee29561f13be11/releases/62739d4e4b1ae4989bc01425/img/logo-1@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 58px;
+  margin-bottom: 2.83px;
+  width: 286px;
+}
+
+.contato {
+  letter-spacing: 0;
+  margin-bottom: 6px;
+  margin-left: 116px;
+  min-height: 22px;
+  width: 85px;
+}
+
+.overlap-group {
+  height: 28px;
+  margin-left: 25px;
+  position: relative;
+  width: 117px;
+}
+
+.carrinho {
+  left: 21px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 0;
+  width: 96px;
+}
+
+.vector {
+  height: 27px;
+  left: 0;
+  position: absolute;
+  top: 1px;
+  width: 23px;
+}
+
+.sobre {
+  letter-spacing: 0;
+  margin-bottom: 6px;
+  margin-left: 13px;
+  min-height: 22px;
+  width: 83px;
+}
+
+.addproduto {
+  letter-spacing: 0;
+  margin-bottom: 5px;
+  margin-left: 29px;
+  min-height: 22px;
+  width: 194px;
+}
+
+.entrar {
+  letter-spacing: 0;
+  margin-bottom: 6px;
+  margin-left: 18px;
+  min-height: 21px;
+  width: 81px;
+}
+
+.footer {
+  align-items: flex-start;
+  display: flex;
+  margin-left: -3px;
+  margin-top: 10px;
+  min-width: 1443px;
+  padding: 0 1.5px;
+}
+
+.overlap-group-3 {
+  align-items: center;
+  background-image: url(https://anima-uploads.s3.amazonaws.com/projects/62739d2cabee29561f13be11/releases/62739d4e4b1ae4989bc01425/img/background-footer@1x.svg);
+  background-size: 100% 100%;
+  display: flex;
+  height: 84px;
+  justify-content: flex-end;
+  margin-top: -0.25px;
+  min-width: 1440px;
+  padding: 0 290.9px;
+}
+
+.compania-aqui-expre {
+  color: 
+#ffffff;
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-m);
+  font-weight: 400;
+  letter-spacing: 0;
+  min-height: 36px;
+  width: 802px;
+}
+
+.ofertas-do-dia {
+  align-items: flex-end;
+  display: flex;
+  margin-left: 1px;
+  margin-top: 36px;
+  min-width: 1441px;
+  padding: 0 1px;
+}
+
+.overlap-group3 {
+  height: 665px;
+  margin-bottom: 0;
+  position: relative;
+  width: 1439px;
+}
+
+.placa-de-video {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 207px;
+  min-height: 253px;
+  position: absolute;
+  top: 90px;
+  width: 211px;
+}
+
+.gtx980ti-fe-1 {
+  height: 164px;
+  object-fit: cover;
+  width: 200px;
+}
+
+.placa-de-vdeo-r-80000 {
+  letter-spacing: 0;
+  margin-left: 1px;
+  margin-top: 21px;
+  min-height: 68px;
+  width: 208px;
+}
+
+.arroz {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  left: 747px;
+  min-height: 253px;
+  position: absolute;
+  top: 90px;
+  width: 235px;
+}
+
+.arroz-branco-1 {
+  height: 162px;
+  margin-right: 19px;
+  object-fit: cover;
+  width: 196px;
+}
+
+.arroz-branco-kg-r-350 {
+  letter-spacing: 0;
+  margin-right: 2px;
+  margin-top: 23px;
+  min-height: 68px;
+  width: 233px;
+}
+
+.relogio {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 201px;
+  min-height: 258px;
+  position: absolute;
+  top: 372px;
+  width: 206px;
+}
+
+.relogio-1-1 {
+  align-self: flex-end;
+  height: 160px;
+  margin-right: 2px;
+  object-fit: cover;
+  width: 196px;
+}
+
+.relgio-rulex-r-35000 {
+  letter-spacing: 0;
+  margin-top: 30px;
+  min-height: 68px;
+  width: 191px;
+}
+
+.frango {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  left: 1025px;
+  min-height: 251px;
+  position: absolute;
+  top: 92px;
+  width: 200px;
+}
+
+.frango-kg-r-700 {
+  letter-spacing: 0;
+  margin-left: 7px;
+  margin-top: 21px;
+  min-height: 68px;
+  width: 149px;
+}
+
+.frango-1-1 {
+  height: 162px;
+  margin-right: 2px;
+  object-fit: cover;
+  width: 198px;
+}
+
+.carro-de-bombeiro {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  left: 435px;
+  min-height: 267px;
+  position: absolute;
+  top: 365px;
+  width: 284px;
+}
+
+.carro-de-bombeiros-r-5000 {
+  letter-spacing: 0;
+  margin-right: 2px;
+  margin-top: 30px;
+  min-height: 68px;
+  width: 282px;
+}
+
+.bombeiro-1 {
+  height: 169px;
+  margin-left: 27px;
+  object-fit: cover;
+  width: 197px;
+}
+
+.carne-bovina {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  left: 474px;
+  min-height: 252px;
+  position: absolute;
+  top: 92px;
+  width: 240px;
+}
+
+.carne-bovina-kg-r-2100 {
+  letter-spacing: 0;
+  margin-right: 2px;
+  margin-top: 22px;
+  min-height: 68px;
+  width: 238px;
+}
+
+.carne-bovina-1 {
+  height: 162px;
+  margin-right: 16px;
+  object-fit: cover;
+  width: 198px;
+}
+
+.processador {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 1025px;
+  min-height: 252px;
+  position: absolute;
+  top: 365px;
+  width: 215px;
+}
+
+.ryzen-9-5950x-r-320000 {
+  letter-spacing: 0;
+  margin-top: 15px;
+  min-height: 68px;
+  width: 213px;
+}
+
+.processador-1 {
+  height: 169px;
+  object-fit: cover;
+  width: 198px;
+}
+
+.overlap-group-1 {
+  align-items: flex-start;
+  background-image: url(https://anima-uploads.s3.amazonaws.com/projects/62739d2cabee29561f13be11/releases/62739d4e4b1ae4989bc01425/img/background-ofertas-do-dia@1x.svg);
+  background-size: 100% 100%;
+  display: flex;
+  height: 665px;
+  left: 0;
+  min-width: 1439px;
+  padding: 18.9px 122px;
+  position: absolute;
+  top: 0;
+}
+
+.title {
+  letter-spacing: 0;
+  min-height: 51px;
+  width: 304px;
+}
+
+.oculos-solar {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  left: 752px;
+  min-height: 258px;
+  position: absolute;
+  top: 365px;
+  width: 204px;
+}
+
+.oculos-solar-1 {
+  height: 169px;
+  margin-right: 2px;
+  object-fit: cover;
+  width: 202px;
+}
+
+.culos-solar-r-17500 {
+  letter-spacing: 0;
+  margin-left: 1px;
+  margin-top: 21px;
+  min-height: 68px;
+  width: 175px;
+}
+
+.overlap-group5 {
+  height: 1544px;
+  margin-left: -2.5px;
+  position: relative;
+  width: 1444px;
+}
+
+.overlap-group4 {
+  height: 1544px;
+  left: 2px;
+  position: absolute;
+  top: 0;
+  width: 1440px;
+}
+
+.leite {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  left: 1036px;
+  min-height: 259px;
+  position: absolute;
+  top: 498px;
+  width: 204px;
+}
+
+.text-leite {
+  letter-spacing: 0;
+  margin-right: 4px;
+  margin-top: 9px;
+  min-height: 72px;
+  min-width: 156px;
+}
+
+.leite-moca-1-1 {
+  height: 178px;
+  margin-right: 2px;
+  object-fit: cover;
+  width: 202px;
+}
+
+.overlap-group-2 {
+  align-items: flex-start;
+  background-image: url(https://anima-uploads.s3.amazonaws.com/projects/62739d2cabee29561f13be11/releases/62739d4e4b1ae4989bc01425/img/background@1x.svg);
+  background-size: 100% 100%;
+  display: flex;
+  height: 1544px;
+  left: 0;
+  min-width: 1440px;
+  padding: 44.2px 135.8px;
+  position: absolute;
+  top: 0;
+}
+
+.produtos {
+  letter-spacing: 0;
+  min-height: 54px;
+}
+
+.polystation {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  left: 766px;
+  min-height: 259px;
+  position: absolute;
+  top: 498px;
+  width: 200px;
+}
+
+.polystation1-1 {
+  height: 178px;
+  margin-right: 2px;
+  object-fit: cover;
+  width: 198px;
+}
+
+.text-poly {
+  letter-spacing: 0;
+  margin-right: 2px;
+  margin-top: 9px;
+  min-height: 72px;
+  width: 174px;
+}
+
+.camisa {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  left: 212px;
+  min-height: 259px;
+  position: absolute;
+  top: 1198px;
+  width: 213px;
+}
+
+.camisa-1 {
+  letter-spacing: 0;
+  margin-right: 2.09px;
+  margin-top: 9px;
+  min-height: 72px;
+  width: 141px;
+}
+
+.camisa1-1 {
+  height: 178px;
+  margin-right: 2px;
+  object-fit: cover;
+  width: 211px;
+}
+
+.vestido {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  left: 487px;
+  min-height: 266px;
+  position: absolute;
+  top: 1198px;
+  width: 215px;
+}
+
+.vestido-1 {
+  letter-spacing: 0;
+  margin-left: 1.27px;
+  margin-top: 16px;
+  min-height: 72px;
+  width: 140px;
+}
+
+.vestido-1-1 {
+  height: 178px;
+  margin-right: 2px;
+  object-fit: cover;
+  width: 213px;
+}
+
+.feijo {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  left: 206px;
+  min-height: 253px;
+  position: absolute;
+  top: 155px;
+  width: 219px;
+}
+
+.feijo1-1 {
+  height: 171px;
+  margin-right: 2px;
+  object-fit: cover;
+  width: 217px;
+}
+
+.text-feij {
+  letter-spacing: 0;
+  margin-top: 10px;
+  min-height: 72px;
+  min-width: 133px;
+}
+
+.teclado {
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  left: 1028px;
+  min-height: 266px;
+  position: absolute;
+  top: 1198px;
+  width: 212px;
+}
+
+.teclado-1 {
+  letter-spacing: 0;
+  margin-right: 2px;
+  margin-top: 16px;
+  min-height: 72px;
+  min-width: 210px;
+}
+
+.teclado-1-1 {
+  height: 178px;
+  margin-right: 2px;
+  object-fit: cover;
+  width: 202px;
+}
+
+.macarro {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  left: 487px;
+  min-height: 253px;
+  position: absolute;
+  top: 155px;
+  width: 215px;
+}
+
+.macarro1-1 {
+  height: 171px;
+  margin-right: 2px;
+  object-fit: cover;
+  width: 213px;
+}
+
+.text-maca {
+  letter-spacing: 0;
+  margin-right: 2px;
+  margin-top: 10px;
+  min-height: 72px;
+  min-width: 135px;
+}
+
+.notebook {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  left: 487px;
+  min-height: 259px;
+  position: absolute;
+  top: 498px;
+  width: 215px;
+}
+
+.text-note {
+  letter-spacing: 0;
+  margin-right: 17px;
+  margin-top: 9px;
+  min-height: 72px;
+  min-width: 168px;
+}
+
+.notebook1-1 {
+  height: 178px;
+  margin-right: 2px;
+  object-fit: cover;
+  width: 213px;
+}
+
+.ferramentas {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  left: 713px;
+  min-height: 266px;
+  position: absolute;
+  top: 1198px;
+  width: 306px;
+}
+
+.caixa-de-ferramentas-1-1 {
+  height: 178px;
+  margin-right: 2px;
+  object-fit: cover;
+  width: 198px;
+}
+
+.ferramentas-1 {
+  letter-spacing: 0;
+  margin-right: 2px;
+  margin-top: 16px;
+  min-height: 72px;
+  min-width: 304px;
+}
+
+.condicionador {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 487px;
+  min-height: 259px;
+  position: absolute;
+  top: 848px;
+  width: 215px;
+}
+
+.condicionador1-1 {
+  height: 171px;
+  object-fit: cover;
+  width: 213px;
+}
+
+.text-cond {
+  letter-spacing: 0;
+  margin-top: 16px;
+  min-height: 72px;
+}
+
+.carne {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 205px;
+  min-height: 259px;
+  position: absolute;
+  top: 498px;
+  width: 220px;
+}
+
+.text-suina {
+  letter-spacing: 0;
+  margin-top: 9px;
+  min-height: 72px;
+}
+
+.carne-suina1-1 {
+  height: 178px;
+  margin-left: 1px;
+  object-fit: cover;
+  width: 217px;
+}
+
+.placa {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  left: 766px;
+  min-height: 253px;
+  position: absolute;
+  top: 155px;
+  width: 200px;
+}
+
+.e-1-1 {
+  height: 171px;
+  margin-right: 2px;
+  object-fit: cover;
+  width: 198px;
+}
+
+.text-placa {
+  letter-spacing: 0;
+  margin-right: 2px;
+  margin-top: 10px;
+  min-height: 72px;
+  min-width: 156px;
+}
+
+.sandalha {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  left: 1036px;
+  min-height: 252px;
+  position: absolute;
+  top: 848px;
+  width: 204px;
+}
+
+.sandalha-1 {
+  letter-spacing: 0;
+  margin-right: 2px;
+  margin-top: 16px;
+  min-height: 65px;
+  width: 132px;
+}
+
+.sandalha1-1 {
+  height: 171px;
+  margin-right: 2px;
+  object-fit: cover;
+  width: 202px;
+}
+
+.ssd {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  left: 1036px;
+  min-height: 253px;
+  position: absolute;
+  top: 155px;
+  width: 204px;
+}
+
+.ssd-1-1 {
+  height: 171px;
+  margin-right: 2px;
+  object-fit: cover;
+  width: 202px;
+}
+
+.text-ssd {
+  letter-spacing: 0;
+  margin-left: 9px;
+  margin-top: 10px;
+  min-height: 72px;
+  min-width: 167px;
+}
+
+.pc {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  left: 212px;
+  min-height: 259px;
+  position: absolute;
+  top: 848px;
+  width: 213px;
+}
+
+.text-pc {
+  letter-spacing: 0;
+  margin-right: 3px;
+  margin-top: 16px;
+  min-height: 72px;
+  min-width: 182px;
+}
+
+.pc-gamer-completo-1-1 {
+  height: 171px;
+  margin-right: 2px;
+  object-fit: cover;
+  width: 211px;
+}
+
+.sabonete {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  left: 766px;
+  min-height: 259px;
+  position: absolute;
+  top: 848px;
+  width: 200px;
+}
+
+.text-sab {
+  letter-spacing: 0;
+  margin-right: 18px;
+  margin-top: 16px;
+  min-height: 72px;
+  min-width: 136px;
+}
+
+.separador {
+  height: 1px;
+  left: 8px;
+  position: absolute;
+  top: 6px;
+  width: 1436px;
+}
+
+.sees {
+  align-items: flex-start;
+  display: flex;
+  margin-top: 10px;
+  min-width: 1454px;
+  padding: 0 1px;
+}
+
+.overlap-group2 {
+  align-items: flex-start;
+  background-image: url(https://anima-uploads.s3.amazonaws.com/projects/62739d2cabee29561f13be11/releases/62739d4e4b1ae4989bc01425/img/background-se--es@1x.svg);
+  background-size: 100% 100%;
+  display: flex;
+  height: 50px;
+  min-width: 1440px;
+  padding: 7px 218px;
+}
+
+.promoes {
+  letter-spacing: 0;
+  min-height: 27px;
+  min-width: 117px;
+}
+
+.masculino {
+  letter-spacing: 0;
+  margin-left: 75px;
+  min-height: 27px;
+  min-width: 105px;
+}
+
+.tecnologia {
+  align-self: center;
+  letter-spacing: 0;
+  margin-left: 75px;
+  margin-top: 1px;
+  min-height: 27px;
+  min-width: 113px;
+}
+
+.feminino {
+  letter-spacing: 0;
+  margin-left: 75px;
+  min-height: 27px;
+  min-width: 94px;
+}
+
+.casa {
+  align-self: center;
+  letter-spacing: 0;
+  margin-left: 75px;
+  margin-top: 1px;
+  min-height: 27px;
+  min-width: 53px;
+}
+
+.brinquedo {
+  align-self: center;
+  letter-spacing: 0;
+  margin-left: 75px;
+  margin-top: 1px;
+  min-height: 27px;
+  min-width: 107px;
+}
