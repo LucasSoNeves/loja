@@ -134,4 +134,132 @@ footer {
     line-height: 25px;
 }
 
+#info {
+    background-color: black;
+    text-align: center;
+    color: darkgray;
+}
 
+#quem {
+    background-color: black;
+    color: darkgray;
+    font-size: 20px;
+    padding: 20px;
+}
+
+#text {
+    display:flex;
+    max-width: 1400px;
+    padding: 0 10px;
+    background-image: linear-gradient( to right, rgb(122, 85, 85), rgb(45, 65, 180));
+}
+#text img {
+    padding: 25px;
+    border-radius: 50%;
+}
+
+#text p {
+    text-align: center;
+    padding: 20px 70px;
+    margin-top: 130px;
+}
+
+#social{
+    background-color: black;
+}
+
+#social p {
+    display: flex;
+}
+
+#social p a {
+    padding: 15px;
+    list-style: none;
+    text-decoration: none;
+    display: inline-block;
+    color: gold;
+    margin-left: 370px;
+}
+
+#linguagens {
+    background-image: linear-gradient( to right, rgb(122, 85, 85), rgb(45, 65, 180));;
+}
+
+#linguagens p {
+    font-size: 20px;
+    padding: 15px;
+}
+
+#linguagens ul {
+    margin-top: -30px;
+    padding: 18px;
+    font-size: 18px;
+}
+
+#frame {
+    background-image: linear-gradient( to right, rgb(122, 85, 85), rgb(45, 65, 180));;
+}
+
+#frame p {
+    font-size: 20px;
+    padding: 15px;
+}
+
+#frame ul {
+    margin-top: -30px;
+    padding: 18px;
+    font-size: 18px;
+}
+
+#htm {
+    background-image: linear-gradient( to right, rgb(122, 85, 85), rgb(45, 65, 180));;
+}
+
+#htm p {
+    font-size: 20px;
+    padding: 15px;
+}
+
+#htm ul {
+    margin-top: -30px;
+    padding: 18px;
+    font-size: 18px;
+}
+
+#ferramentas {
+    background-image: linear-gradient( to right, rgb(122, 85, 85), rgb(45, 65, 180));;
+}
+
+#ferramentas p {
+    font-size: 20px;
+    padding: 15px;
+}
+
+#ferramentas ul {
+    margin-top: -30px;
+    padding: 18px;
+    font-size: 18px;
+}
+
+#git {
+    background-image: linear-gradient( to right, rgb(122, 85, 85), rgb(45, 65, 180));;
+}
+
+#git p {
+    font-size: 20px;
+    padding: 15px;
+}
+
+hr {
+    border-color: gold;
+}
+
+#voltar {
+    background-color: black;
+}
+
+#voltar a {
+    display: inline-block;
+    padding: 10px;
+    color: gold;
+}
