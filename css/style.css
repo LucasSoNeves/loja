@@ -263,3 +263,34 @@ hr {
     padding: 10px;
     color: gold;
 }
+
+#cont h1 {
+    background-color: black;
+    padding: 10px;
+    color: darkgray;
+    text-align: center;
+}
+
+#contma {
+    font-size: 20px;
+}
+
+#contma p {
+    background-image: linear-gradient( to right, rgb(122, 85, 85), rgb(45, 65, 180));
+    padding: 20px;
+}
+
+#volta {
+    padding: 10px;
+    position:absolute;
+    bottom: 0;
+    background-color: rgb(0, 0, 0);  
+    line-height: 25px;
+    width: 100%;
+}
+
+#volta a {
+    color: gold; 
+}
+
+
