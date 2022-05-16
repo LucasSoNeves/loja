@@ -282,7 +282,7 @@ hr {
 
 #volta {
     padding: 10px;
-    position:absolute;
+    position: relative;
     bottom: 0;
     background-color: rgb(0, 0, 0);  
     line-height: 25px;
@@ -294,3 +294,104 @@ hr {
 }
 
 
+.container {
+    background-color: black;
+    color: gold;
+    padding: 20px;
+    display: none;
+}
+
+.container p {
+    width: 100%;
+    max-width: 800px;
+    text-align: center;
+    padding: 0px 250px;
+}
+
+#tituh1 {
+    text-align: center;
+    background-color: black;
+    color: darkgray;
+}
+
+#tituh21 {
+    padding: 20px;
+    text-align: center;
+    background-image: linear-gradient( to right, rgb(122, 85, 85), rgb(45, 65, 180));
+}
+
+#botão {
+    text-align: center;
+    background-color: black;
+    color: gold;
+}
+
+.container1 {
+    background-color: black;
+    color: gold;
+    padding: 20px;
+    display: none;
+}
+
+.container1 p {
+    width: 100%;
+    max-width: 800px;
+    text-align: center;
+    padding: 0px 250px;
+}
+
+.container2 {
+    background-color: black;
+    color: gold;
+    padding: 20px;
+    display: none;
+}
+
+.container2 p {
+    width: 100%;
+    max-width: 800px;
+    text-align: center;
+    padding: 0px 250px;
+}
+
+.container3 {
+    background-color: black;
+    color: gold;
+    padding: 20px;
+    display: none;
+}
+
+.container3 p {
+    width: 100%;
+    max-width: 800px;
+    text-align: center;
+    padding: 0px 250px;
+}
+
+.container4 {
+    background-color: black;
+    color: gold;
+    padding: 20px;
+    display: none;
+}
+
+.container4 p {
+    width: 100%;
+    max-width: 800px;
+    text-align: center;
+    padding: 0px 250px;
+}
+
+.container5 {
+    background-color: black;
+    color: gold;
+    padding: 20px;
+    display: none;
+}
+
+.container5 p {
+    width: 100%;
+    max-width: 800px;
+    text-align: center;
+    padding: 0px 250px;
+}
